@@ -15,14 +15,14 @@
 </div>
 <div align="center">
 <a href="https://github.com/AngxlKing7/">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AngxlKing7&show_icons=true&locale=es&layout=compact&line_height=20&title_color=FFFFFF&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="AngxlKing7"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red_icons=true" width="290"  alt="AngxlKing7"/>
 <br><br>
 </a>
 
 </div>
 <h2 align="center"> MIS PROYECTOS </h2>
 
-<a href="https://github.com/AngxlKing7/Ayrton-bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AngxlKing7&repo=Ayrton-Bot&theme=midnight-purple)</a>
+<a href="https://github.com/AngxlKing7/Ayrton-bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AngxlKing7&repo=Ayrton-Bot&theme=shadow_red)</a>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
